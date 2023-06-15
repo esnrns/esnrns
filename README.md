@@ -1,9 +1,5 @@
 ### 👋 Hi, GitHub! 
 
-- 🏡 Brazilian, born and raised.
-- ✈ Moving to Australia soon to follow my dreams.
-- 🌱 Currently learning Python and hoping to learn JavaScript, HTML, CSS and much more in the near future. 👀
-- ⚡ Fun fact about me: I can solve the Rubik's Cube in under 30 seconds.
 - 📫 Contact: esnrns@gmail.com
 <!--
 **esnrns/esnrns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
